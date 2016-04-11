@@ -15,7 +15,7 @@ Chroma Palette is a companion app/plugin for Adobe Illustrator which allows you 
 * Toggle Background/Foreground color palette using NumMultiply button.
 * Learn button to capture color from Adobe Illustrator to any Color palette button.
 * Toggle Extra buttons across 1-9 for additional palettes.
-* Optional Adobe Illustrator hotkey highlighting.
+* Optional Adobe Illustrator hotkey highlighting. 
 * Customizable default color themes for app.
 
 
