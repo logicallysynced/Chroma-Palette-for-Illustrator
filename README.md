@@ -1,4 +1,4 @@
-![Chroma Palette Logo](http://thejourneynetwork.net/chromapalette/chromapalette_md.png)
+![Chroma Palette Logo](http://thejourneynetwork.net/chromapalette/chromapaletteAI_md.png)
 
 **Color Palette for Adobe Illustrator**
 
@@ -19,7 +19,7 @@ Chroma Palette is a companion app/plugin for Adobe Illustrator which allows you 
 * Customizable default color themes for app.
 
 
-![Chroma Palette Config](http://thejourneynetwork.net/chromapalette/chromapalette_config.png)
+![Chroma Palette Config](http://thejourneynetwork.net/chromapalette/chromapalette_config_ai.png)
 
 
 ##Device Compatibility
